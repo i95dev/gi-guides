@@ -27,7 +27,16 @@ This guide explains how to set up an integration user in NetSuite for use with t
      - Web Services (Full)
      - SuiteAnalytics Connect (Full)
 4. Under **Permissions > Setup**, ensure **Log in using Access Tokens** is enabled.
-5. Save the role.
+
+   <img width="2626" height="908" alt="image" src="https://github.com/user-attachments/assets/cfe2d40a-f27e-4f89-a7f1-22406313389d" />
+   <img width="2726" height="370" alt="image" src="https://github.com/user-attachments/assets/fd444ffd-afb6-4973-a8f4-cce83e046636" />
+   <img width="2592" height="502" alt="image" src="https://github.com/user-attachments/assets/59ab5376-e91b-4fa1-a367-373f41185355" />
+   <img width="2720" height="536" alt="image" src="https://github.com/user-attachments/assets/4939e99a-2e51-4d28-9742-d067791e3eaa" />
+
+
+
+
+6. Save the role.
 
 
 ## 3. Create an Access Token
